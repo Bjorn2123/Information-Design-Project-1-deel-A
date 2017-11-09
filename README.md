@@ -9,7 +9,7 @@ Het concept bestaat uit 4 grafieken waarmee ik wil laten zien dat wanneer het ja
 
 ### Data
 
-De data waarmee ik voor deel A mee aan de slag ben gegaan zijn de [sterfgevallen dementie](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=7233&D1=422%2c424&D2=1-2&D3=0&D4=a&HDR=G2%2cG1&STB=G3%2cT&VW=T) en [leeftstijl & persoonskenmerken(http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=83021ned&D1=0,3,5,15-16,19,21,26,41,47-48,59,71&D2=0-13,30-42&D3=0&D4=l&VW=T) op de website van het CBS. 
+De data waarmee ik voor deel A mee aan de slag ben gegaan zijn de [sterfgevallen dementie](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=7233&D1=422%2c424&D2=1-2&D3=0&D4=a&HDR=G2%2cG1&STB=G3%2cT&VW=T) en [leeftstijl & persoonskenmerken](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=83021ned&D1=0,3,5,15-16,19,21,26,41,47-48,59,71&D2=0-13,30-42&D3=0&D4=l&VW=T) op de website van het CBS. 
 
 ### Opschoon proces
 Omdat deze data ruwe data is heb ik het voor het visualiseren moeten opschonen. Dit opschoonproces heb ik toegepast bij mijn eerste grafiek en heb ik gedaan met de volgende set code:
