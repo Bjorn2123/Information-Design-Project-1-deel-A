@@ -9,7 +9,7 @@ Het concept bestaat uit 4 grafieken waarmee ik wil laten zien dat wanneer het ja
 
 ### Data
 
-De data waarmee ik voor deel A mee aan de slag ben gegaan zijn de ![sterfgevallen dementie](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=7233&D1=422%2c424&D2=1-2&D3=0&D4=a&HDR=G2%2cG1&STB=G3%2cT&VW=T) en ![leeftstijl & persoonskenmerken](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=83021ned&D1=0,3,5,15-16,19,21,26,41,47-48,59,71&D2=0-13,30-42&D3=0&D4=l&VW=T) op de website van het CBS. 
+De data waarmee ik voor deel A mee aan de slag ben gegaan zijn de [sterfgevallen dementie](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=7233&D1=422%2c424&D2=1-2&D3=0&D4=a&HDR=G2%2cG1&STB=G3%2cT&VW=T) en [leeftstijl & persoonskenmerken(http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=83021ned&D1=0,3,5,15-16,19,21,26,41,47-48,59,71&D2=0-13,30-42&D3=0&D4=l&VW=T) op de website van het CBS. 
 
 ### Opschoon proces
 Omdat deze data ruwe data is heb ik het voor het visualiseren moeten opschonen. Dit opschoonproces heb ik toegepast bij mijn eerste grafiek en heb ik gedaan met de volgende set code:
@@ -39,10 +39,10 @@ De functionaliteit van de drie andere grafieken is het per risicofactoren laten 
 ### Bronnen
 Het onderzoek is begonnen met de bronnen die ik onderzocht heb voor het vak Research for Data. Omdat ik het onderwerp daarvan voor dit project deels heb aangepast ben ik verder gaan werken met de Risicofactoren. De twee hoofdzakelijke bronnen die ik gebruikt heb staan aangegeven bij Data. De andere bronnen die ik gebruikt heb staan onderaan aangegeven:
 
-* ![https://www.vanderakt.nl/downloads/wat-zien-wij-wat-zien-zij.pdf](https://www.vanderakt.nl/downloads/wat-zien-wij-wat-zien-zij.pdf)
-* ![https://dementie.nl/over-dementie/geheugenverlies-vergeetachtigheid-of-dementie](https://dementie.nl/over-dementie/geheugenverlies-vergeetachtigheid-of-dementie)
-* ![https://www.alzheimer-nederland.nl/nieuws/bloeddruk-en-de-kans-op-alzheimer](https://www.alzheimer-nederland.nl/nieuws/bloeddruk-en-de-kans-op-alzheimer)
-* ![https://dementie.nl/preventie/oorzaken-risicofactoren-en-preventie-van-dementie](https://dementie.nl/preventie/oorzaken-risicofactoren-en-preventie-van-dementie)
-* ![https://www.alzheimer-nederland.nl/sites/default/files/directupload/gezond-leven-verkleint-kans-dementie.pdf](https://www.alzheimer-nederland.nl/sites/default/files/directupload/gezond-leven-verkleint-kans-dementie.pdf)
-* ![https://www.nrc.nl/nieuws/2017/05/16/levensstijl-bepaalt-helft-van-dementiekans-9172600-a1558967](https://www.nrc.nl/nieuws/2017/05/16/levensstijl-bepaalt-helft-van-dementiekans-9172600-a1558967)
-* ![https://www.alzheimer-nederland.nl/dementie](https://www.alzheimer-nederland.nl/dementie)
+* [https://www.vanderakt.nl/downloads/wat-zien-wij-wat-zien-zij.pdf](https://www.vanderakt.nl/downloads/wat-zien-wij-wat-zien-zij.pdf)
+* [https://dementie.nl/over-dementie/geheugenverlies-vergeetachtigheid-of-dementie](https://dementie.nl/over-dementie/geheugenverlies-vergeetachtigheid-of-dementie)
+* [https://www.alzheimer-nederland.nl/nieuws/bloeddruk-en-de-kans-op-alzheimer](https://www.alzheimer-nederland.nl/nieuws/bloeddruk-en-de-kans-op-alzheimer)
+* [https://dementie.nl/preventie/oorzaken-risicofactoren-en-preventie-van-dementie](https://dementie.nl/preventie/oorzaken-risicofactoren-en-preventie-van-dementie)
+* [https://www.alzheimer-nederland.nl/sites/default/files/directupload/gezond-leven-verkleint-kans-dementie.pdf](https://www.alzheimer-nederland.nl/sites/default/files/directupload/gezond-leven-verkleint-kans-dementie.pdf)
+* [https://www.nrc.nl/nieuws/2017/05/16/levensstijl-bepaalt-helft-van-dementiekans-9172600-a1558967](https://www.nrc.nl/nieuws/2017/05/16/levensstijl-bepaalt-helft-van-dementiekans-9172600-a1558967)
+* [https://www.alzheimer-nederland.nl/dementie](https://www.alzheimer-nederland.nl/dementie)
